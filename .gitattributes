@@ -11,7 +11,6 @@
 .distignore export-ignore
 .gitignore export-ignore
 
-composer.json export-ignore
 composer.lock export-ignore
 
 package.json export-ignore
