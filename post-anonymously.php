@@ -13,7 +13,7 @@
  * @package           Post_Anonymously
  *
  * @wordpress-plugin
- * Plugin Name:       Post Anonymously for BuddyBoss
+ * Plugin Name:       Anonymously Post for BuddyBoss
  * Plugin URI:        https://acrosswp.com/downloads/post-anonymously/
  * Description:       Post Anonymously in Activity Areas of BuddyBoss Platform
  * Version:           0.0.14

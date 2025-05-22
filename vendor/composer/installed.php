@@ -3,7 +3,7 @@
         'name' => 'acrosswp/post-anonymously',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => '96963eec3c9896d5d1c68b1560e902c6987b70fd',
+        'reference' => '78cd7a1faaec36cae7a289e674d7701a6a1dc26e',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         'acrosswp/post-anonymously' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => '96963eec3c9896d5d1c68b1560e902c6987b70fd',
+            'reference' => '78cd7a1faaec36cae7a289e674d7701a6a1dc26e',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),

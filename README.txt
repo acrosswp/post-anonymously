@@ -1,4 +1,4 @@
-=== Post Anonymously ===
+=== Anonymously Post ===
 Contributors: acrosswp, raftaar1191
 Tags: post-anonymously,buddyboss,buddypress,buddyboss-platform,anonymously-post,buddypress,platform,platform-pro
 Donate link: https://acrosswp.com/
