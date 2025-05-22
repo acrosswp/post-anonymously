@@ -225,7 +225,7 @@ class Post_Anonymously_Public {
 
 			wp_localize_script( $this->plugin_name, 'paf',
 				array( 
-					'post_anonymously_label' => apply_filters( 'post_anonymously_label', __( 'Post Anonymously', 'post-anonymously' ) ),
+					'post_anonymously_label' => apply_filters( 'post_anonymously_label', __( 'Post Anonymously', 'anonymously-post' ) ),
 				)
 			);
 		}

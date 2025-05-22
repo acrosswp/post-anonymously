@@ -87,7 +87,7 @@ final class Post_Anonymously {
 	 */
 	public function __construct() {
 
-		$this->plugin_name = 'post-anonymously';
+		$this->plugin_name = 'anonymously-post';
 
 		$this->define_constants();
 

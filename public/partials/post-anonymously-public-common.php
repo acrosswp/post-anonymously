@@ -154,7 +154,7 @@ class Post_Anonymously_Public_Common {
 	 * Remove the User Profile Link
 	 */
 	public function anonymous_user_label() {
-		return __( 'Anonymous Member', 'post-anonymously' );
+		return __( 'Anonymous Member', 'anonymously-post' );
 	}
 
 	/**
@@ -221,14 +221,14 @@ class Post_Anonymously_Public_Common {
 	 * Remove the User Profile Link on activity
 	 */
 	public function anonymous_author_user_label() {
-		return __( ' ( Anonymous Post )', 'post-anonymously' );
+		return __( ' ( Anonymous Post )', 'anonymously-post' );
 	}
 
 	/**
 	 * Remove the User Profile Link on activity comment
 	 */
 	public function anonymous_author_user_commnet_label() {
-		return __( ' ( Anonymous Comment )', 'post-anonymously' );
+		return __( ' ( Anonymous Comment )', 'anonymously-post' );
 	}
 
 	/**
@@ -240,7 +240,7 @@ class Post_Anonymously_Public_Common {
 		$anonymously_checked = apply_filters( 'post_anonymously_default_checked', '' );
 		?>
 		<div class="anonymously-post-main">
-			<label><?php _e( 'Post Anonymously', 'post-anonymously' ); ?></label>
+			<label><?php _e( 'Post Anonymously', 'anonymously-post' ); ?></label>
 			<div class="anonymously-post-wrap">
 				<input type="checkbox" id="anonymously-post" <?php echo $anonymously_checked; ?> class="anonymously-post" name="anonymously-post" value="1">
 				<div class="anonymously-post-knobs"></div>

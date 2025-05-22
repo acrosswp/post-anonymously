@@ -37,7 +37,7 @@ class Post_Anonymously_i18n {
 	public function load_plugin_textdomain() {
 
 		load_plugin_textdomain(
-			'post-anonymously',
+			'anonymously-post',
 			false,
 			dirname( dirname( plugin_basename( __FILE__ ) ) ) . '/languages/'
 		);
