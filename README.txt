@@ -3,7 +3,7 @@ Contributors: acrosswp, raftaar1191
 Tags: post-anonymously,buddyboss,buddypress,buddyboss-platform,anonymously-post,buddypress,platform,platform-pro
 Donate link: https://acrosswp.com/
 Requires at least: 6.5
-Tested up to: 6.8.1
+Tested up to: 6.8
 Stable tag: 0.0.14
 Requires PHP: 7.2
 License: GPLv2 or later.
