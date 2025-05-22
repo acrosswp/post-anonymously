@@ -10,7 +10,6 @@
         "plugin"
     ],
     "require": {
-        "wpboilerplate/wpb-updater-checker-github": "dev-main",
         "wpboilerplate/wpb-buddyboss-dependency": "dev-main"
     },
     "support": {

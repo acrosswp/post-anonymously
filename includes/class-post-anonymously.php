@@ -212,22 +212,6 @@ final class Post_Anonymously {
 		if ( class_exists( 'WPBoilerplate_BuddyBoss_Platform_Dependency' ) ) {
 			new WPBoilerplate_BuddyBoss_Platform_Dependency( $this->get_plugin_name(), POST_ANONYMOUSLY_PLUGIN_FILES, array( 'activity' ) );
 		}
-
-		/**
-		 * For Plugin Update via Github
-		 */
-		if ( class_exists( 'WPBoilerplate_Updater_Checker_Github' ) ) {
-
-			$package = array(
-				'repo' 		        => 'https://github.com/acrosswp/post-anonymously',
-				'file_path' 		=> POST_ANONYMOUSLY_PLUGIN_FILE,
-				'name_slug'			=> POST_ANONYMOUSLY_PLUGIN_NAME_SLUG,
-				'release_branch' 	=> 'main',
-				'release-assets' 	=> false
-			);
-
-			new WPBoilerplate_Updater_Checker_Github( $package );
-		}
 	}
 
 	/**

@@ -3,7 +3,7 @@
         'name' => 'acrosswp/post-anonymously',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => '5c87aed5d7fa69c23e7d302e9be2639c07adf738',
+        'reference' => '96963eec3c9896d5d1c68b1560e902c6987b70fd',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         'acrosswp/post-anonymously' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => '5c87aed5d7fa69c23e7d302e9be2639c07adf738',
+            'reference' => '96963eec3c9896d5d1c68b1560e902c6987b70fd',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
@@ -36,28 +36,6 @@
             'reference' => '36548977a9abcd7d61448666fadca37220fdc053',
             'type' => 'library',
             'install_path' => __DIR__ . '/../wpboilerplate/wpb-dependency',
-            'aliases' => array(
-                0 => '9999999-dev',
-            ),
-            'dev_requirement' => false,
-        ),
-        'wpboilerplate/wpb-updater-checker-github' => array(
-            'pretty_version' => 'dev-main',
-            'version' => 'dev-main',
-            'reference' => '0bbdbd161e43352d01e1dd13db308a05ebaf5afa',
-            'type' => 'library',
-            'install_path' => __DIR__ . '/../wpboilerplate/wpb-updater-checker-github',
-            'aliases' => array(
-                0 => '9999999-dev',
-            ),
-            'dev_requirement' => false,
-        ),
-        'yahnis-elsts/plugin-update-checker' => array(
-            'pretty_version' => 'dev-master',
-            'version' => 'dev-master',
-            'reference' => '73e6281e434bceffa7884568611804f8c38e27b5',
-            'type' => 'library',
-            'install_path' => __DIR__ . '/../yahnis-elsts/plugin-update-checker',
             'aliases' => array(
                 0 => '9999999-dev',
             ),
